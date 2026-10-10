@@ -82,7 +82,6 @@ Membuat file `lab2_css_dasar.html` berisi struktur dasar HTML: `<header>` dengan
 
 Pada tahap ini belum ada CSS, sehingga tampilan masih bawaan browser.
 
-![Tampilan Dokumen HTML](screenshots/01-html-dasar.png)
 
 ### 2. Mendeklarasikan CSS Internal
 
@@ -111,7 +110,6 @@ Menambahkan tag `<style>` di dalam `<head>` dengan aturan untuk `body`, `header`
 
 Hasil: font berubah menjadi Open Sans, judul menjadi biru, rata tengah, dan header diberi garis bawah. Teks miring di dalam `h1` berwarna abu-abu.
 
-![Penambahan CSS Internal](screenshots/02-css-internal.png)
 
 ### 3. Menambahkan Inline CSS
 
@@ -123,7 +121,6 @@ Menambahkan atribut `style` pada tag `<p>`:
 
 Hasil: paragraf menjadi rata tengah dengan warna biru muda. Style ini hanya berlaku untuk paragraf tersebut.
 
-![Penambahan Inline CSS](screenshots/03-inline-css.png)
 
 ### 4. Membuat CSS Eksternal
 
@@ -154,7 +151,6 @@ Lalu menautkannya pada `<head>` di file HTML:
 
 Hasil: menu navigasi berlatar hijau dengan link putih tanpa garis bawah. Saat kursor diarahkan ke link, latar berubah menjadi hijau lebih gelap.
 
-![Tampilan CSS Eksternal](screenshots/04-css-eksternal.png)
 
 ### 5. Menambahkan CSS Selector (ID dan Class)
 
@@ -190,15 +186,12 @@ Menambahkan kode berikut pada `style_eksternal.css`:
 
 Hasil: area `#intro` berlatar biru, judul "Hello World" menjadi putih dan rata kiri, dan link "Informasi selengkapnya." tampil sebagai tombol merah.
 
-![CSS ID dan Class Selector](screenshots/05-selector.png)
 
 ---
 
 ## Validasi CSS
 
-File CSS divalidasi menggunakan W3C CSS Validator: <https://jigsaw.w3.org/css-validator/>
-
-![Hasil Validasi CSS](screenshots/06-validasi.png)
+File CSS divalidasi menggunakan W3C CSS Validator
 
 ---
 
@@ -210,7 +203,6 @@ Saya mencoba mengubah dan menambah properti pada kode CSS, misalnya:
 
 - _(tuliskan eksperimen kamu, contoh: mengubah `color`, menambah `border-radius` pada `.button`, mengubah `font-size`, dll.)_
 
-![Eksperimen CSS](screenshots/07-eksperimen.png)
 
 ### 2. Perbedaan `h1 {...}` dengan `#intro h1 {...}`
 
