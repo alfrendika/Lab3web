@@ -1,14 +1,14 @@
 # Lab3Web - Praktikum 3: CSS Dasar
 
 Laporan Praktikum Pemrograman Web
-Universitas Pelita Bangsa, Bekasi
+Universitas Pelita Bangsa.
 
 | | |
 |---|---|
-| **Nama** | _(isi nama kamu)_ |
-| **NIM** | _(isi NIM kamu)_ |
-| **Kelas** | _(isi kelas kamu)_ |
-| **Dosen** | Agung Nugroho |
+| **Nama** | _(Rahsya Alfrendika)_ |
+| **NIM** | _(312510339)_ |
+| **Kelas** | _(I253C)_ |
+| **Dosen** | Agung Nugroho, S.Kom., M.Kom. |
 
 ---
 
