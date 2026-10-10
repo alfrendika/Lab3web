@@ -257,3 +257,7 @@ Hasil: teks berwarna **merah**, karena deklarasi `#paragraf-1` mengalahkan `.tex
 - Penulisan CSS bisa dilakukan secara internal, eksternal, dan inline, dengan inline berprioritas tertinggi.
 - Selector elemen, class, dan id memiliki tingkat spesifisitas berbeda: elemen < class < id.
 - CSS eksternal paling efisien untuk dipakai di banyak halaman.
+
+##Hasil
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/54b6a16f-99fc-4511-b0c2-a8ac345ce249" />
+
